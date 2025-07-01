@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+.hero-section{
+    background-image: url("./assets/herobgimage.svg");
+    background-size: cover;
+}
+.footer-bg{
+
+    background-image: url('./assets/Rectangle.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: none;
+    background-position: bottom center;
+}
